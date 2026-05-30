@@ -4,6 +4,7 @@
 [![chewBBACA](https://img.shields.io/badge/chewBBACA-%E2%89%A53.5.3-blue)](https://github.com/B-UMMI/chewBBACA)
 [![Loci](https://img.shields.io/badge/cgMLST_loci-1100-success)]()
 [![Build genomes](https://img.shields.io/badge/build_set-247_genomes-informational)]()
+[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER_CONCEPT_DOI.svg)](https://doi.org/PLACEHOLDER_CONCEPT_DOI)
 
 A core-genome MLST schema for *Lactococcus garvieae*, built with [chewBBACA](https://github.com/B-UMMI/chewBBACA) from 247 high-quality genome assemblies.
 

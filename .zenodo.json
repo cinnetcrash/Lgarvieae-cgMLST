@@ -1,0 +1,37 @@
+{
+  "title": "Lactococcus garvieae cgMLST schema",
+  "description": "A chewBBACA-compatible core-genome MLST schema for Lactococcus garvieae, built from 247 high-quality genome assemblies. The default cgMLST set contains 1100 loci present in at least 99% of the build genomes. Two alternative locus lists are shipped: cgMLST100 (790 loci, strict) and cgMLST95 (1315 loci, relaxed). The release includes the Prodigal training file, locus FASTAs, representative alleles, build pipeline documentation, and an example AlleleCall script.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "version": "1.0",
+  "language": "eng",
+  "keywords": [
+    "Lactococcus garvieae",
+    "cgMLST",
+    "core genome MLST",
+    "bacterial typing",
+    "chewBBACA",
+    "genomic epidemiology",
+    "outbreak investigation",
+    "fish pathogen"
+  ],
+  "creators": [
+    {
+      "name": "Ünal, Gültekin",
+      "orcid": "0000-0002-8996-7028"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/B-UMMI/chewBBACA",
+      "relation": "isCompiledBy",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.1099/mgen.0.000166",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    }
+  ]
+}
