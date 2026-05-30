@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Linux
+.directory
+.Trash-*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# chewBBACA AlleleCall outputs (users shouldn't commit their typing results here)
+results_alleles.tsv
+results_contigsInfo.tsv
+results_statistics.tsv
+loci_summary_stats.tsv
+paralogous_counts.tsv
+paralogous_loci.tsv
+cds_coordinates.tsv
+invalid_cds.txt
+logging_info.txt
+
+# Local test/build artifacts
+.tmp/
+tmp/
+my_results/
+test_run/

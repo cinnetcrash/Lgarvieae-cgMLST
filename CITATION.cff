@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "Lactococcus garvieae cgMLST schema"
+message: "If you use this schema, please cite it as below and also cite the underlying tools (chewBBACA)."
+type: dataset
+version: "1.0"
+date-released: 2026-05-29
+license: CC-BY-4.0
+repository-code: "https://github.com/cinnetcrash/Lgarvieae-cgMLST"
+abstract: >-
+  A chewBBACA-compatible core-genome MLST schema for Lactococcus garvieae,
+  built from 247 high-quality genome assemblies. The default cgMLST set
+  contains 1100 loci present in at least 99% of the build genomes.
+keywords:
+  - Lactococcus garvieae
+  - cgMLST
+  - core genome MLST
+  - bacterial typing
+  - chewBBACA
+  - genomic epidemiology
+authors:
+  - family-names: "Ünal"
+    given-names: "Gültekin"
+    orcid: "https://orcid.org/0000-0002-8996-7028"
+references:
+  - type: software
+    title: chewBBACA
+    authors:
+      - family-names: Silva
+        given-names: Mickael
+      - family-names: Machado
+        given-names: Miguel
+      - family-names: Silva
+        given-names: Diogo
+      - family-names: Rossi
+        given-names: Mirko
+      - family-names: Moran-Gilad
+        given-names: Jacob
+      - family-names: Santos
+        given-names: Sergio
+      - family-names: Ramirez
+        given-names: Mario
+      - family-names: Carriço
+        given-names: João André
+    doi: 10.1099/mgen.0.000166
+    version: "3.5.3"
+    year: 2018
+    journal: Microbial Genomics
+    title: "chewBBACA: A complete suite for gene-by-gene schema creation and strain identification"

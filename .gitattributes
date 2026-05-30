@@ -1,0 +1,9 @@
+# Treat schema fastas and training file as binary to avoid newline normalisation
+schema/*.fasta            binary
+schema/short/*.fasta      binary
+schema/Lgarvieae.trn      binary
+schema/.schema_config     binary
+
+# Treat reports as binary
+reports/*.html            binary
+reports/*.js              binary
