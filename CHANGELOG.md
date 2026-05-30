@@ -7,6 +7,15 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 - `MINOR` — alleles are added/updated without changing the locus set.
 - `PATCH` — documentation, metadata, or reports only.
 
+## [1.0.1] — 2026-05-30
+
+### Added
+- Zenodo deposit metadata (`.zenodo.json`) so GitHub releases mint a citable DOI automatically.
+- DOI badge in `README.md`.
+
+### Notes
+- Schema content (loci, alleles, training file) is unchanged from v1.0.
+
 ## [1.0] — 2026-05-29
 
 ### Added
